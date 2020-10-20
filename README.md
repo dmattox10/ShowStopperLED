@@ -6,7 +6,7 @@ There is an audio input, which I was really impressed with myself for, because i
 
 I stopped working on this project 7 years ago. I got mine working, as well as one for a friend, but a week after I got my prototypes in the mail and assembled them, the competitor released pretty much the same thing, ready for sale, and I gave up.
 
-There are many different iterations, most untested, but the "defiance" version was built, and used successfully, including a $500 traffic ticket because I didn't realize it was on, and it was flashing "Red-Red", "Blue-Blue" and my car, and I got pulled over.
+There are many different iterations, most untested, but the "defiance" version was built, and used successfully, including a $500 traffic ticket because I didn't realize it was on, and it was flashing "Red-Red", "Blue-Blue" on my car, and I got pulled over.
 
 # An Apology: This was all completed and over, before I ever learned about Git!
 
@@ -24,8 +24,8 @@ All of the files in this directory are photos of the equipment or advertising ma
 
 ### Links:
 I recorded two videos with one of my best friends, of the ShowStopper working, on my 1993 Dodge Stealth.
-[Audio Modes](https://www.youtube.com/watch?v=f9GeiqDAIMo)
-[Motion Modes](https://www.youtube.com/watch?v=yMCRMerskfM)
+- [Audio Modes](https://www.youtube.com/watch?v=f9GeiqDAIMo)
+- [Motion Modes](https://www.youtube.com/watch?v=yMCRMerskfM)
 
 
-[ShowStopper Logo](/Media/logo.jpg)
+<img src='media/logo.jpg' />
