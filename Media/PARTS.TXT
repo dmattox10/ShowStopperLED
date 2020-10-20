@@ -1,0 +1,78 @@
+Partlist
+
+Exported from ShowStopper REV B.sch at 11/24/2012 2:46:44 PM
+
+EAGLE Version 5.0.0 Copyright (c) 1988-2008 CadSoft
+
+Part     Value                 Device                Package               Library  Sheet
+
+C1       33pf                  CAP0603-CAP           0603-CAP              SparkFun 1
+C2       .1uf                  CAP0603-CAP           0603-CAP              SparkFun 1
+C3       .01uf                 CAP0603-CAP           0603-CAP              SparkFun 1
+C4       .1uf                  CAP0603-CAP           0603-CAP              SparkFun 1
+C5       100uf                 CAP_POLPTH1           CPOL-RADIAL-100UF-25V SparkFun 1
+C6       10uf                  CAP_POLPTH2           CPOL-RADIAL-10UF-25V  SparkFun 1
+C7       .1uf                  CAP0603-CAP           0603-CAP              SparkFun 1
+C8       100uf                 CAP_POLPTH1           CPOL-RADIAL-100UF-25V SparkFun 1
+C9       22PF                  CAP0805               0805                  SparkFun 1
+C10      22PF                  CAP0805               0805                  SparkFun 1
+C11      .1uf                  CAP0603-CAP           0603-CAP              SparkFun 1
+C12      .1uf                  CAP0603-CAP           0603-CAP              SparkFun 1
+C13      .1uf                  CAP0603-CAP           0603-CAP              SparkFun 1
+C14      .1uf                  CAP0603-CAP           0603-CAP              SparkFun 1
+D1       1N4004                DIODEPTH              DIODE-1N4001          SparkFun 1
+EXT      RJ45-8PTH             RJ45-8PTH             RJ45-8                SparkFun 1
+IC1      LM7805                V_REG_78XXSINK        TO220-IGO             SparkFun 1
+IC2      AVR-MEGA8-PPTH        AVR-MEGA8-PPTH        DIL28-3               SparkFun 1
+JP1      BT                    M04LOCK               1X04_LOCK             SparkFun 1
+JP2                            M025MM                SCREWTERMINAL-5MM-2   SparkFun 1
+JP8                            M06LONGPADS           1X06_LONGPADS         SparkFun 1
+JP9                            M02LOCK               1X02_LOCK             SparkFun 1
+JP10                           M02LOCK               1X02_LOCK             SparkFun 1
+Q1                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q2                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q3                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q4                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q5                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q6                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q7                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q8                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q9                             MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q10                            MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q11                            MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q12                            MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q14                            MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q13                            MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+Q15                            MOSFET-NCHANNELPTH2   TO220V                SparkFun 1
+R1       10k                   RESISTOR0805-RES      0805                  SparkFun 1
+R2       10k                   RESISTOR0805-RES      0805                  SparkFun 1
+R3       10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R4       10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R5       10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R6       10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R7       10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R8       10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R9       10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R10      10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R11      10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R12      10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R13      10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R14      10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R15      10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R16      10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R17      10k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R18      200k                  RESISTOR0603-RES      0603-RES              SparkFun 1
+R19      22k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R20      22k                   RESISTOR0603-RES      0603-RES              SparkFun 1
+R21      2.2K                  RESISTOR0805-RES      0805                  SparkFun 1
+S1       SWITCH-MOMENTARY-2PTH SWITCH-MOMENTARY-2PTH TACTILE-PTH           SparkFun 1
+U$1      MSGEQ7_PTH            MSGEQ7_PTH            DIL08                 SparkFun 1
+U$3      RJ45-8PTH             RJ45-8PTH             RJ45-8                SparkFun 1
+U$4      RJ45-8PTH             RJ45-8PTH             RJ45-8                SparkFun 1
+U$5      RJ45-8PTH             RJ45-8PTH             RJ45-8                SparkFun 1
+U$6      RJ45-8PTH             RJ45-8PTH             RJ45-8                SparkFun 1
+U$7      RJ45-8PTH             RJ45-8PTH             RJ45-8                SparkFun 1
+U1       AUD0                  AUDIO-JACKPTH         AUDIO-JACK            SparkFun 1
+U2       TLC5940-NT            TLC5940-NT            DIL28-3               SparkFun 1
+X1       USB_                  USB_                  USB-A-S-SILK-FEMALE   SparkFun 1
+Y1       XTAL                  CRYSTALHC49UV         HC49U-V               SparkFun 1

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+<RelativeLayout
+ android:layout_width="fill_parent" 
+ android:layout_height="wrap_content"
+ android:padding="5dp">
+ <TextView
+        android:id="@+id/textViewChan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/channel"/>
+ <SeekBar
+        android:id="@+id/seekBarChan"
+        android:layout_below="@+id/textViewChan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="4"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+ <Button
+        android:id="@+id/btnChoose"
+        android:layout_below="@+id/seekBarChan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:onClick="onClickColorPicker"
+        android:text="@string/choose"/>
+ <Button
+        android:id="@+id/btnRandom"
+        android:layout_below="@+id/btnChoose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:onClick="onClickRandomColor"
+        android:text="@string/random"/>
+ <TextView
+        android:id="@+id/textViewRed"
+        android:layout_below="@+id/btnRandom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/Red" />
+    <SeekBar
+        android:id="@+id/seekBarRed"
+        android:layout_below="@+id/textViewRed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="255"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+    <TextView
+        android:id="@+id/textViewGreen"
+        android:layout_below="@+id/seekBarRed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/Green" />
+    <SeekBar
+        android:id="@+id/seekBarGreen"
+        android:layout_below="@+id/textViewGreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="255"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+    <TextView
+        android:id="@+id/textViewBlue"
+        android:layout_below="@+id/seekBarGreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/Blue" />
+    <SeekBar
+        android:id="@+id/seekBarBlue"
+        android:layout_below="@+id/textViewBlue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="255"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+    <Spinner
+        android:id="@+id/spinnerMode"
+        android:layout_below="@+id/seekBarBlue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:entries="@array/mode_array"
+        android:prompt="@string/mode_prompt" />
+    <TextView
+        android:id="@+id/textViewUnicorns"
+        android:layout_below="@+id/spinnerMode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/unicorns"/>
+ 	<SeekBar
+        android:id="@+id/seekBarUnicorns"
+        android:layout_below="@+id/textViewUnicorns"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+        <TextView
+        android:id="@+id/textViewBand"
+        android:layout_below="@+id/seekBarUnicorns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/band" />
+        <SeekBar
+        android:id="@+id/seekBarBand"
+        android:layout_below="@+id/textViewBand"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="6"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+        <TextView
+        android:id="@+id/textViewSens"
+        android:layout_below="@+id/seekBarBand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:text="@string/sens" />
+        <SeekBar
+        android:id="@+id/seekBarSens"
+        android:layout_below="@+id/textViewSens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="31"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp" />
+        <Button
+        android:id="@+id/btnApply"
+        android:layout_below="@+id/seekBarSens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickApply"
+        android:text="@string/apply"/>
+        <Button
+        android:id="@+id/btnSave"
+        android:layout_below="@+id/btnApply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickSave"
+        android:text="@string/save"/>
+
+</RelativeLayout>
+</ScrollView>

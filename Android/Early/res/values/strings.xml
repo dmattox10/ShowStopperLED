@@ -1,0 +1,121 @@
+<resources>
+
+    <string name="app_name">Defiance</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Defiance</string>
+    <string name="random">Random Color!</string>
+    <string name="channel">Channel %d</string>
+    <string name="Red">Red %d</string>
+    <string name="Green">Green %d</string>
+    <string name="Blue">Blue %d</string>
+    <string name="band">Band %d</string>
+    <string name="sens">Sensitivity %d</string>
+    <string name="choose">Choose a Color!</string>
+    <string name="apply">Apply</string>
+    <string name="saves">Save</string>
+    <string name="loads">Load</string>
+    <string name="connect">Connect</string>    
+    <string name="mode_prompt">Choose a Mode</string>
+    <string name="mac">Mac Address</string>
+    <string name="unicorns">Unicorns!</string>
+    <string name="uni">Unicorns %d</string>
+    <string-array name="mode_array">
+	<item>Set Color</item>
+<item>1 Color Flash</item>
+<item>2 Color Flash</item>
+<item>2 Color Replace</item>
+<item>3 Color Flash</item>
+<item>3 Color Replace</item>
+<item>4 Color Flash</item>
+<item>4 Color Replace</item>
+<item>5 Color Flash</item>
+<item>5 Color Replace</item>
+<item>Red Fade</item>
+<item>Yellow Fade</item>
+<item>Green Fade</item>
+<item>Aqua Fade</item>
+<item>Blue Fade</item>
+<item>Pink Fade</item>
+<item>White Fade</item>
+<item>*Audio Psycho!</item>
+<item>Audio 2 Color Replace</item>
+<item>Audio 3 Color Replace</item>
+<item>Audio 4 Color Replace</item>
+<item>Audio 5 Color Replace</item>
+<item>USA Flash</item>
+<item>USA Replace</item>
+<item>Rainbow Flash</item>
+<item>Rainbow Replace</item>
+<item>Random Color Flash</item>
+<item>Random Color Replace</item>
+<item>Audio Rainbow Replace</item>
+<item>Audio Random Replace</item>
+<item>Audio Red VU</item>
+<item>Audio Orange VU</item>
+<item>Audio Yellow VU</item>
+<item>Audio Green VU</item>
+<item>Audio Aqua VU</item>
+<item>Audio Blue VU</item>
+<item>Audio Violet VU</item>
+<item>Audio Pink VU</item>
+<item>Audio White VU</item>
+<item>*UFO Set Color</item>
+<item>*UFO 2 Color Fill</item>
+<item>*UFO 3 Color Fill</item>
+<item>*UFO 4 Color Fill</item>
+<item>*UFO 5 Color Fill</item>
+<item>*UFO Rainbow Flash</item>
+<item>*UFO Rainbow Flash Cycle</item>
+<item>*UFO Rainbow Fill</item>
+<item>*UFO Rainbow Fill Cycle</item>
+<item>*UFO Random Flash</item>
+<item>*UFO Random Flash Cycle</item>
+<item>*UFO Random Fill</item>
+<item>*UFO Random Fill Cycle</item>
+<item>*UFO Audio Rainbow Fill</item>
+<item>*UFO Audio Rainbow Cycle</item>
+<item>*UFO Audio Set Color</item>
+<item>*UFO Audio 2 Color</item>
+<item>*UFO Audio 3 Color</item>
+<item>*UFO Audio 4 Color</item>
+<item>*UFO Audio 5 Color</item>
+<item>*Red Fade</item>
+<item>*Yellow Fade</item>
+<item>*Green Fade</item>
+<item>*Aqua Fade</item>
+<item>*Blue Fade</item>
+<item>*Pink Fade</item>
+<item>*White Fade</item>
+<item>*Time Psycho!</item>
+<item>*1 Color Flash</item>
+<item>*2 Color Flash</item>
+<item>*2 Color Replace</item>
+<item>*3 Color Flash</item>
+<item>*3 Color Replace</item>
+<item>*4 Color Flash</item>
+<item>*4 Color Replace</item>
+<item>*5 Color Flash</item>
+<item>*5 Color Replace</item>
+<item>*Rainbow Flash</item>
+<item>*Rainbow Replace</item>
+<item>*Random Color Flash</item>
+<item>*Random Color Replace</item>
+    </string-array>
+    <string name="save1">1</string>
+    <string name="save2">2</string>
+    <string name="save3">3</string>
+    <string name="save4">4</string>
+    <string name="save5">5</string>
+    <string name="scanning">scanning for devices…</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="load1">1</string>
+    <string name="load2">2</string>
+    <string name="load3">3</string>
+    <string name="load4">4</string>
+    <string name="load5">5</string>
+</resources>

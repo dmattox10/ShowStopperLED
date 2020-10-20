@@ -1,0 +1,82 @@
+<resources>
+
+    <string name="app_name">Show Stopper</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Show Stopper</string>
+    <string name="random">Random Color!</string>
+    <string name="channel">Channel %d</string>
+    <string name="Red">Red %d</string>
+    <string name="Green">Green %d</string>
+    <string name="Blue">Blue %d</string>
+    <string name="band">Band %d</string>
+    <string name="sens">Sensitivity %d</string>
+    <string name="choose">Choose a Color!</string>
+    <string name="apply">Apply</string>
+    <string name="save">Save</string>
+    <string name="connect">Connect</string>    
+    <string name="mode_prompt">Choose a Mode</string>
+    <string name="mac">Mac Address</string>
+    <string name="unicorns">Unicorns!</string>
+    <string name="uni">Unicorns %d</string>
+
+    <string-array name="mode_array">
+<item>Set Color</item>
+<item>Set Color Flash</item>
+<item>Sync Set Color Flash</item>
+<item>Rainbow Flash</item>
+<item>Sync Rainbow Flash</item>
+<item>Random Flash</item>
+<item>Sync Random Flash</item>
+<item>Audio Rainbow Advance</item>
+<item>Audio Limited Random Advance</item>
+<item>Audio Full Random Advance</item>
+<item>Sync Audio Rainbow Advance</item>
+<item>Sync Audio Limited Random Advance</item>
+<item>Sync Audio Full Random Advance</item>
+<item>Sync UFO Rainbow Advance Cycles</item>
+<item>Sync UFO Rainbow Advance No Cycles</item>
+<item>Sync UFO Rainbow Replace Cycles</item>
+<item>Sync UFO Rainbow Replace No Cycles</item>
+<item>Sync UFO Set Color</item>
+<item>Sync UFO Set Color Audio Advance</item>
+<item>Simple Audio Red</item>
+<item>Simple Audio Yellow</item>
+<item>Simple Audio Green</item>
+<item>Simple Audio Aqua</item>
+<item>Simple Audio Blue</item>
+<item>Simple Audio Violet</item>
+<item>Simple Audio White</item>
+<item>Sync Simple Audio Red</item>
+<item>Sync Simple Audio Yellow</item>
+<item>Sync Simple Audio Green</item>
+<item>Sync Simple Audio Aqua</item>
+<item>Sync Simple Audio Blue</item>
+<item>Sync Simple Audio Violet</item>
+<item>Sync Simple Audio White</item>
+<item>USA Flash</item>
+<item>Sync USA Flash</item>
+<item>Sync Flash 2 Colors</item>
+<item>Sync Flash 3 Colors</item>
+<item>Sync Flash 4 Colors</item>
+<item>Sync Flash 5 Colors</item>
+<item>Sync Audio Flash 2 Colors</item>
+<item>Sync Audio Flash 3 Colors</item>
+<item>Sync Audio Flash 4 Colors</item>
+<item>Sync Audio Flash 5 Colors</item>
+<item>Sync 2 Color UFO Advance</item>
+<item>Sync 3 Color UFO Advance</item>
+<item>Sync 4 Color UFO Advance</item>
+<item>Sync 5 Color UFO Advance</item>
+<item>Sync 2 Color UFO Replace</item>
+<item>Sync 3 Color UFO Replace</item>
+<item>Sync 4 Color UFO Replace</item>
+<item>Sync 5 Color UFO Replace</item>
+    </string-array>
+    <string name="scanning">scanning for devices…</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+</resources>
