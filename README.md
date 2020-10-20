@@ -22,7 +22,7 @@ I started with an ATmega328P, moved to a PJRC Teensy 2.0, the code is a mess of 
 ## Media:
 All of the files in this directory are photos of the equipment or advertising materials I came up with.
 
-### Links:
+## Demo Links:
 I recorded two videos with one of my best friends, of the ShowStopper working, on my 1993 Dodge Stealth.
 - [Audio Modes](https://www.youtube.com/watch?v=f9GeiqDAIMo)
 - [Motion Modes](https://www.youtube.com/watch?v=yMCRMerskfM)
