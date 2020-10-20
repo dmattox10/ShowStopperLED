@@ -28,4 +28,4 @@ I recorded two videos with one of my best friends, of the ShowStopper working, o
 - [Motion Modes](https://www.youtube.com/watch?v=yMCRMerskfM)
 
 
-<img src='media/logo.jpg' />
+<img src='/Media/logo.jpg' />
