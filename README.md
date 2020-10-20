@@ -8,6 +8,8 @@ I stopped working on this project 7 years ago. I got mine working, as well as on
 
 There are many different iterations, most untested, but the "defiance" version was built, and used successfully, including a $500 traffic ticket because I didn't realize it was on, and it was flashing "Red-Red", "Blue-Blue" and my car, and I got pulled over.
 
+# An Apology: This was all completed and over, before I ever learned about Git!
+
 ## Android:
 I've included every copy of the source code I have found in my old backups, I didn't compile and test any at this point, since I've switched to iOS personally, and don't have any Android devices lying around. I didn't use or have any apple equipment when I started the project.
 
